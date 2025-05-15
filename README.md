@@ -3,3 +3,6 @@ This is a simple python-based game that allows player to move the spaceship that
 
 # Purpose of making this game:
 I made this game to test my abilities in building object-oriented programs.
+
+# How to run
+Download and extract the Space Invader.zip file and run the main.exe
